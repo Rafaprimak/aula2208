@@ -1,0 +1,150 @@
+{
+  "receitas": [
+    {
+      "id": "1",
+      "nome": "Bolo de cenoura",
+      "ingredientes": [
+        "Massa: 1/2 xícara (chá) de óleo",
+        "3 cenouras médias raladas",
+        "4 ovos",
+        "2 xícaras (chá) de açúcar",
+        "1/2 xícara (chá) de farinha de trigo",
+        "1 colher (sopa) de fermento em pó",
+        "Cobertura: manteiga 1 colher (sopa) de manteiga chocolate em pó 3 colheres (sopa) de chocolate em pó açúcar 1 xícara (chá) de açúcar leite 1 xícara (chá) de leite"
+      ],
+      "modopreparo": [
+        "1 - Bata a massa Em um liquidificador, adicione a cenoura, os ovos e o óleo, depois misture.",
+        "2 - Acrescente o açúcar e bata novamente por 5 minutos.",
+        "3 - Em uma tigela ou na batedeira, adicione a farinha de trigo e depois misture novamente.",
+        "4 - Acrescente o fermento e misture lentamente com uma colher.",
+        "5 - Asse em um forno preaquecido a 180° C por aproximadamente 40 minutos. 6 Cobertura Despeje em uma tigela a manteiga, o chocolate em pó, o açúcar e o leite, depois misture. 7 Leve a mistura ao fogo e continue misturando até obter uma consistência cremosa, depois despeje a calda por cima do bolo."
+      ],
+      "imagem": "https://static.itdg.com.br/images/300-300/d290bc79bcad112ee9095604e45eb262/365326-original.jpg"
+    },
+    {
+      "id": "2",
+      "nome": "Purê de batata",
+      "ingredientes": [
+        "1 kg de batata",
+        "1/2 xícara de leite",
+        "2 colheres (sopa) de margarina",
+        "sal a gosto",
+        "1 dente de alho espremido"
+      ],
+      "modopreparo": [
+        "Cozinhe as batatas até ficarem bem moles",
+        "Descasque-as ainda quentes e esprema as batatas no espremedor.",
+        "Despeje as batatas em um recipiente e acrescente a margarina, o sal e o alho, e mexa até que a margarina derreta por completo.",
+        "Acrescente o leite aos poucos e continue mexendo."
+      ],
+      "imagem": "https://www.casalcozinha.com.br/wp-content/uploads/2020/09/como-fazer-pure-de-batatas-tradicional-7-1300x825.jpg.webp"
+    },
+    {
+      "id": "3",
+      "nome": "Chocolate quente cremoso",
+      "ingredientes": [
+        "2 xícaras (chá) de leite",
+        "1 colher (sopa) de amido de milho",
+        "3 colheres (sopa) de chocolate em pó",
+        "4 colheres (sopa) de açúcar",
+        "1 canela em pau",
+        "1 caixinha de creme de leite"
+      ],
+      "modopreparo": [
+        "Em um liquidificador, bata o leite, o amido de milho, o chocolate em pó e o açúcar.",
+        "Despeje a mistura em uma panela com a canela e leve ao fogo baixo, mexendo sempre até ferver.",
+        "Desligue, adicione o creme de leite e mexa bem até obter uma mistura homogênea.",
+        "Retire a canela e sirva quente."
+      ],
+      "imagem": "https://cooknenjoy.com/wp-content/uploads/2022/06/chocolate-quente-1200x901.jpg"
+    },
+    {
+      "id": "4",
+      "nome": "Picanha invertida",
+      "ingredientes": [
+        "1 picanha de cerca de 1,5 kg",
+        "400 g de provolone",
+        "100 g de bacon",
+        "Orégano",
+        "Sal grosso"
+      ],
+      "modopreparo": [
+        "Fure a picanha no sentido diagonal, deixando 1,5 cm nas laterais.",
+        "Vire a ponta para dentro, deixando no avesso, cuidado no corte para não atravessar as laterais de um lado ao outro.",
+        "Recheie com o provolone picado temperado com orégano e o bacon, também picado.",
+        "Feche as aberturas com palitos",
+        "Salgue com o sal grosso.",
+        "Coloque no forno a 200ºC em uma assadeira untada ou se preferir leve para churrasqueira.",
+        "Deixe assar a seu gosto, virando de 15 em 15 minutos."
+      ],
+      "imagem": "https://minervafoods.com/wp-content/uploads/2022/12/picanha_blog.jpg"
+    },
+    {
+      "id": "5",
+      "nome": "Cookie gigante recheado de nutella",
+      "ingredientes": [
+        "1 xícara de manteiga",
+        "1 xícara de açúcar mascavo",
+        "Pitada de sal",
+        "1 ovo grande",
+        "1 colher (chá) de bicarbonato de sódio",
+        "2 xícaras de farinha de trigo",
+        "1 xícara de chocolate em gotas",
+        "300 g de nutella"
+      ],
+      "modopreparo": [
+        "Bata a manteiga e o açúcar por 5 minutos em uma batedeira.",
+        "Adicione o sal e o ovo, bata até misturar por completo.",
+        "Coloque o bicarbonato de sódio e a farinha de trigo e bata mais uma vez, até a farinha se incorporar na massa.",
+        "Por fim, coloque as gotas de chocolate e misture com uma espátula.",
+        "Leve a massa para geladeira por 20 minutos.",
+        "Distribua uma parte da massa em uma forma de fundo removível.",
+        "Coloque a nutella dentro da forma.",
+        "Abra a massa reservada em um pedaço de plástico-filme e cubra a forma fazendo uma tampa.",
+        "Leve para assar em forno preaquecido em 180 graus por meia hora ou até dourar."
+      ],
+      "imagem": "https://3.bp.blogspot.com/-BUynh95mU0I/WyAqCZkMB3I/AAAAAAAANDU/2hJ8ipslCZI30a0QPT2meteAvWIw5Am7ACLcBGAs/s640/Cookie-gigante-torta-7.JPG"
+    },
+    {
+      "id": "6",
+      "nome": "Almôndegas",
+      "ingredientes": [
+        "500 g de carne moída",
+        "2 colheres (sopa) de azeite de oliva (30 ml)",
+        "1 xícara de cebola bem picada (60 g)",
+        "1 ovo",
+        "150 g de farinha de rosca",
+        "sal a gosto",
+        "pimenta-do-reino a gosto",
+        "395 g de molho de tomate"
+      ],
+      "modopreparo": [
+        "Misture a carne com o ovo, a cebola, o sal, um pouco de azeite de oliva (ou óleo) e a pimenta.",
+        "Agregue a farinha até dar o ponto de enrolar as almôndegas.",
+        "Faça pequenas bolinhas",
+        "Em uma panela com um pouco de azeite, frite as almôndegas selando-as em fogo alto.",
+        "Retire as almôndegas e reserve.",
+        "Em outra panela, esquente o molho de tomate em fogo baixo.",
+        "Na mesma panela da almôndega, elimine o excesso de azeite e coloque o molho de tomate, colocando as almôndegas para cozinhar por alguns minutos.",
+        "Em cerca de 15 minutos as almôndegas estarão totalmente cozidas e o prato estará pronto."
+      ],
+      "imagem": "https://www.receitasnestle.com.br/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/fe2f8f03d1ca84d923d37c837ff36274.webp?itok=ZNK-ftgD"
+    },
+    {
+      "id": "7",
+      "nome": "arroz",
+      "ingredientes": [
+        "Arroz",
+        " Oleo",
+        " Cebola"
+      ],
+      "modopreparo": [
+        "1 - corte a cebola",
+        " 2 - frite a cebola cortada com o óleo em uma panela..."
+      ],
+      "imagem": "https://www.receitasnestle.com.br/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/7c44045d2e8577819cb76b2b404902dd.webp?itok=KzeGh6J4vtQgNrwXTaW6oR5z+sjlmmXzOPqA9zSS2dvDG/Q/90zXZeXf98VYH/9k="
+    }
+  ]
+}
+
+
